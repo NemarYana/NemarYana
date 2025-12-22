@@ -16,7 +16,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l4b2xrMzl0cTlxcGNreTd4NGk3ODNnMDZ0YWN5ZWQ2Z3gxMmVnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Котик программист">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUyMWZkbGM5YWY2aDY3NjNhNzJjZzFtNDZ6c3J2OWU4cjVnM2NwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN5YmZ2dDR2YXQ4MWplYWs5djBkbTh5OXZ5YnVhdzBieWxhdmN1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO13snTI0vP6AqQ/giphy.gif" width="200">
+</div>
 
 <p align="center"> 
   <i>Спасибо, что заглянули в мой профиль! 💖</i>
