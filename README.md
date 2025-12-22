@@ -24,15 +24,4 @@
   <i>Спасибо, что заглянули в мой профиль! 💖</i>
 </p>
 
-<p align="center" style="font-size: 24px; animation: blink 1.5s infinite;">
-  🐾 🐾 🐾 🐾 🐾 🐾 🐾 🐾
-</p>
-
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-</style>
-
 </div>
