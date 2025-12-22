@@ -1,7 +1,10 @@
 <div align="center">
 
-# Привет! Меня зовут Яна, мне 17 лет
-## Я студентка ИГУ по направлению "Прикладная информатика в дизайне"
+# 👋 Привет! 
+
+Меня зовут **Яна**, мне **17 лет**. 
+
+Я студентка ИГУ направления **"Прикладная информатика в дизайне"**
 
 #### 📚 Активно изучаю:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,6 +15,12 @@
 #### 🤔 Планирую изучить:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l4b2xrMzl0cTlxcGNreTd4NGk3ODNnMDZ0YWN5ZWQ2Z3gxMmVnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Котик программист">
+
+<p align="center"> 
+  <i>Спасибо, что заглянули в мой профиль! 💖</i>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=fadeIn" />
 
